@@ -1,7 +1,7 @@
 ## Clothing-Executive-Dashboard
 <br>
 An excel file with two sheets: Sales, SalesPerson, and a third sheet: Products, that was created for this specific task. 
-
+This project incorporates the use of powerful lookup tools for table's transformation, also the use of pivot tables and graphs, to create a dynamic dashboard with straightforward visuals that quickly display vital metrics, which help to describe important insights about the sales performance of this international clothing business.
 <br>
 
 ### Tasks

@@ -64,6 +64,9 @@ Note: if change core table to reflect any change to pivot table just go to pivot
 
 ![Sales Table](/images/CED_TSalesPT.png)
 <br>
+The sales trends are showing a small but gradual increment in most cases for the Products. Except for Jeans and Dress which had a drastic rise of sales trends, both in the mid-year of 2018 for Jeans, and 2019 for Dresses. It will be advisable to go deep into detail about the reason of this unexpected move.
+
+<br>
 <br>
 
 PT: Sales By Country.<br>
@@ -75,6 +78,9 @@ Chart: sort in descending order.<br>
 
 ![Sales Table](/images/CED_SCountry_PT.png)
 <br>
+Only Canada doubled its sales compared to half of the other countries, making it the country with the most sales. It is followed by Cuba. While the rest of the countries are far behind, and Portugal on a concerned condition at the very bottom.
+
+<br>
 <br>
 
 PT: Top 5 Salesperson.<br>
@@ -85,6 +91,9 @@ Chart: Bar Chart. (Value filter > top 10)<br>
 
 ![Sales Table](/images/CED_T5_PT.png)
 <br>
+Linda and Jillian are around the 10 million in sales
+
+<br>
 <br>
 
 Create Dashboard: start by changing wide and height of first column and row to create margin.<br>
@@ -94,5 +103,8 @@ Dashboard: add shape for title. Cut and paste charts to dashboard. To make all c
 <br>
 
 ![Sales Table](/images/CBT_Dashboard.png)
+<br>
+With a neat and clear interaction of the visuals with the slicers and timeline, this dashboard creates a dynamic observation of the performance in an appealing way.
+
 <br>
 <br>

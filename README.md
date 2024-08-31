@@ -102,7 +102,7 @@ Dashboard: add shape for title. Cut and paste charts to dashboard. To make all c
 <br>
 <br>
 
-![Sales Table](/images/CBT_Dashboard.png)
+![Sales Table](/images/CED_DashboardX.png)
 <br>
 With a neat and clear interaction of the visuals with the slicers and timeline, this dashboard creates a dynamic observation of the performance in an appealing way.
 

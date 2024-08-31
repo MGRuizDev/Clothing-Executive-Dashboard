@@ -43,7 +43,7 @@ Note: Sorting mess up with formulas.<br>
 <br>
 <br>
 
-![Sales Table](/images/CED_Sales.png)
+![Sales Table](/images/CED_SalesX.png)
 <br>
 <br>
 

@@ -96,7 +96,7 @@ Linda and Jillian are around the 10 million in sales
 <br>
 <br>
 
-Create Dashboard: start by changing wide and height of first column and row to create margin.<br>
+9.- Create Dashboard: start by changing wide and height of first column and row to create margin.<br>
 Dashboard: add shape for title. Cut and paste charts to dashboard. To make all charts work together, with time line and slicers update report connections.<br>
 
 <br>
@@ -107,4 +107,13 @@ Dashboard: add shape for title. Cut and paste charts to dashboard. To make all c
 With a neat and clear interaction of the visuals with the slicers and timeline, this dashboard creates a dynamic observation of the performance in an appealing way.
 
 <br>
+<br>
+
+10.- Create Summarize Business Data sheet.<br>
+Basic statistical information of sales by day.<br>
+
+<br>
+<br>
+
+![Sales Table](/images/CED_SBData.png)
 <br>

@@ -117,3 +117,29 @@ Basic statistical information of sales by day.<br>
 
 ![Sales Table](/images/CED_SBData.png)
 <br>
+
+
+<br>
+<br>
+
+![Sales Table](/images/CED_PowerQuery.png)
+<br>
+
+
+<br>
+<br>
+
+![Sales Table](/images/CED_CustomerInfo_Stats.png)
+<br>
+
+
+<br>
+<br>
+
+![Sales Table](/images/CED_VBA_Email.png)
+<br>
+
+
+
+
+

@@ -96,6 +96,8 @@ Linda and Jillian are around the 10 million in sales
 
 <br>
 <br>
+<br>
+<br>
 
 9.- Summary Dashboard is a collage of the different visuals in a centralized point.<br>
 Dashboard: Start by changing width and height of first column and row to create a margin.<br>
@@ -110,6 +112,8 @@ With a neat and clear interaction of the visuals with the slicers and timeline, 
 
 <br>
 <br>
+<br>
+<br>
 
 10.- Create Summarize Business Data sheet.<br>
 
@@ -121,6 +125,8 @@ With a neat and clear interaction of the visuals with the slicers and timeline, 
 This spreadsheet consits of basic statistical information on the sum of sales per day.<br>
 Having a mean and median value very close, with a high range assuming an extended distribution with an also high standard deviation.
 
+<br>
+<br>
 <br>
 <br>
 
@@ -137,8 +143,8 @@ Change: replace gender and product category data type from number to text. (Make
 We end up with quantitative data, discrete and continuous.<br>
 <br>
 <br>
-
-
+<br>
+<br>
 
 12.- Loaded data from power query becomes Customer Purchase Data table.<br>
 Insert Pivot Tables in the same worksheet. Time spent on the website, Gender, Age, Category. <br>
@@ -155,6 +161,8 @@ Note: When using formulas to create the stats table, automatic data update becom
 
 Adults aged 40 to 60 are the most predominant buyers, and men's clothing is purchased the most.
 
+<br>
+<br>
 <br>
 <br>
 

@@ -62,7 +62,7 @@ Note: if a change to the core table has been done, to reflect this change on the
 <br>
 <br>
 
-![Sales Table](/images/CED_TSalesPT.png)
+![Total_Sales Table](/images/CED_TSalesPT.png)
 <br>
 The sales trends are showing a small but gradual increment in most cases for the Products. Except for Jeans and Dress which had a drastic rise of sales trends, both in the mid-year of 2018 for Jeans, and 2019 for Dresses. It will be advisable to go deep into detail about the reason of this unexpected move with more data.
 
@@ -76,7 +76,7 @@ Chart: sort in descending order.<br>
 <br>
 <br>
 
-![Sales Table](/images/CED_SCountry_PT.png)
+![Country_Sales Table](/images/CED_SCountry_PT.png)
 <br>
 Only Canada doubled its sales compared to half of the other countries, making it the country with the most sales. It is followed by Cuba. While the rest of the countries are far behind, and Portugal on a concerned condition at the very bottom.
 
@@ -90,7 +90,7 @@ Note: Go to > Value filter > top 10.<br>
 <br>
 <br>
 
-![Sales Table](/images/CED_T5_PT.png)
+![Pivote Table](/images/CED_T5_PT.png)
 <br>
 Linda and Jillian are around the 10 million in sales
 
@@ -106,7 +106,7 @@ Dashboard: Add shape for title. Cut and paste charts to dashboard. To make all c
 <br>
 <br>
 
-![Sales Table](/images/CED_DashboardX.png)
+![Dashboard](/images/CED_DashboardX.png)
 <br>
 With a neat and clear interaction of the visuals with the slicers and timeline, this dashboard creates a dynamic observation of the performance in an appealing way.
 
@@ -120,7 +120,7 @@ With a neat and clear interaction of the visuals with the slicers and timeline, 
 <br>
 <br>
 
-![Sales Table](/images/CED_SBData.png)
+![Statistics Table](/images/CED_SBData.png)
 <br>
 This spreadsheet consits of basic statistical information on the sum of sales per day.<br>
 Having a mean and median value very close, with a high range assuming an extended distribution with an also high standard deviation.
@@ -135,7 +135,7 @@ This powerful tool will allow to retrieve data from a file that contain customer
 <br>
 <br>
 
-![Sales Table](/images/CED_PowerQuery.png)
+![Power_Query](/images/CED_PowerQuery.png)
 <br>
 
 Change: create duplicate columns of annual income and time spent, to modify the their value with the maximum of two decimal digits.<br>
@@ -156,7 +156,7 @@ Note: When using formulas to create the stats table, automatic data update becom
 <br>
 <br>
 
-![Sales Table](/images/CED_CustomerInfo_Stats.png)
+![CustomerPurchase Table](/images/CED_CustomerInfo_Stats.png)
 <br>
 
 Adults aged 40 to 60 are the most predominant buyers, and men's clothing is purchased the most.
@@ -174,16 +174,30 @@ Note: In order to use VBA functionality the file type has to be macro enabled (.
 <br>
 
 
-![Sales Table](/images/CED_VBA_Email.png)
+![VBA_Email](/images/CED_VBA_Email.png)
 <br>
 This functionality that will keep Managers up to data on this valuable metrics.
 
+<br>
+<br>
+<br>
+<br>
 
+14.- Add a button and integrate the macro to send emails with statistics.<br>
+Note: Small tweak when referencing the range on the sheets. First select the sheet (Sheets("name").Select), then select the Range (Range("A2").Select).<br>
 
 <br>
 <br>
 
 
+![Button Macro](/images/CED_ButtonToMacro.png)
+<br>
+The ability to promptly provide vital information to decision makers is game changing.
+
+
+
+<br>
+<br>
 
 
 

@@ -1,6 +1,6 @@
 ## Clothing-Executive-Dashboard
 <br>
-Clothing Executive is a business that is transitioning an important marketing strategy implementation, and it requires a source of simple and available data to keep informed the stakeholders about performance and different metrics. Having a small amount of data, around 50,000 rows in a  spreadsheet file with two sheets: Sales, SalesPerson, and a third sheet: Products, that was created for this specific task, I have decided to use Excel as main tool.
+Clothing Executive is a business that is transitioning an important marketing strategy implementation. There is a concern about their sales because ratings are falling on certain products, finding a reason might not only improve the image of the product to the people but also financial gains. They also require a centralized source of clear and available data to keep informed the stakeholders about performance and different metrics. Having a small amount of data, around 50,000 rows in a spreadsheet file with two sheets: Sales, SalesPerson, and a third sheet: Products, that was created for this specific task, I have decided to use Excel as main tool.
 This project incorporates the use of powerful lookup tools for table's transformation, also the use of pivot tables and graphs, to create a dynamic dashboard with straightforward visuals that quickly display vital metrics, which help to describe important insights about the sales performance of this international clothing business.
 <br>
 
@@ -21,8 +21,8 @@ Gather the Products data with INDEX and MATCH, and insert it into the sales shee
 
 <br>
 
-Note: There are some empty values in the "Email" column. When When using the lookup to retrieve this data, in order to get an empty space instead of a 0, I tweak the formula to include a conditional IF statement.<br>
-Note: In first match of the formula, absolute reference the column Sales!$C2, In second match of formula absolute reference the row Sales!I$1. So when drag down or right, it doesn’t populate with the last row or column, respectively.<br>
+Note: There are some empty values in the "Email" column. In order to get an empty space instead of a 0, When using the lookup to retrieve this data, I tweak the formula to include a conditional IF statement.<br>
+Note: In the first match of the formula, I absolute referenced the column Sales!$C2, In the second match of formula, I absolute referenced the row Sales!I$1. So when drag down or right, it doesn’t populate with the last row or column, respectively.<br>
 Note: Sorting mess up with formulas.<br>
 
 <br>
@@ -64,7 +64,7 @@ Note: if a change to the core table has been done, to reflect this change on the
 
 ![Total_Sales Table](/images/CED_TSalesPT.png)
 <br>
-The sales trends are showing a small but gradual increment in most cases for the Products. Except for Jeans and Dress which had a drastic rise of sales trends, both in the mid-year of 2018 for Jeans, and 2019 for Dresses. It will be advisable to go deep into detail about the reason of this unexpected move with more data.
+The sales trends are showing a small but gradual increment, in most cases, for the majority of the products, except for Jeans and Dress which had a drastic increase of sales trends, both in the mid-year of 2018 for Jeans, and 2019 for Dresses. It will be advisable to go deep into detail about the reason of this unexpected move with more data.
 
 <br>
 <br>
@@ -151,7 +151,7 @@ Insert Pivot Tables in the same worksheet. Time spent on the website, Gender, Ag
 Note: summarize by counting value to create frequency attribute.<br>
 PT: On Category pivot table, add % Cumulative attribute.<br>
 Graph: Add Cumulative bar chart linked to PT Category.<br>
-Note: graph format axis to remove it, change number with ;;;<br>
+Note: To remove the graph format axis, on properties, change number with ;;;<br>
 Note: When using formulas to create the stats table, automatic data update becomes easy. On the contrary, if pivot table is used, there is the need to refresh every time a change is made to the source table.<br>
 <br>
 <br>
@@ -195,6 +195,26 @@ Note: Small tweak when referencing the range on the sheets. First select the she
 The ability to promptly provide vital information to decision makers is game changing.
 
 
+<br>
+<br>
+<br>
+<br>
+
+### Some other observations.
+<br>
+<br>
+
+Ratings are falling on certain product  finding a reason might not only improve a person's perception but also gains.
+Man and woman share a similar number of loyalty program awarded. Despite this, woman, specially middle aged woman stands out in this regard.
+
+Has it been expected, because of the initial concern, we can see on products table that Jeans have the highest rating, specially extra large size product on yellow, white and green. When looking at categories by gender, we can see that woman and man (slightly higher in women) are the most bought categories on colors white, yellow and green for both categories.
+
+Women seems to buy also men's clothing, probably as a gift. Specially jeans have shown a gradual sales increase among men and women. And when looking at T-shirts, we can see a very poor performance that probably can be improved, probably by using the popularity of jeans, these two can be sold together, initially reducing the price on t-shirts, in an attempt to promote and create liking for the product, another option is to completely rebrand the underperforming products, this can greatly increase profits.
+
+
+
+<br>
+<br>
 
 <br>
 <br>
